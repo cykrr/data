@@ -1,5 +1,10 @@
+<img src="2.png" alt="drawing" width="200"/>
+<img src="3.png" alt="drawing" width="200"/>
+
 # Análisis de ventas y la popularidad de las principales empresas y sus dispositivos móviles.
 
+#### Integrantes: Paul Rojas y Benjamín Robles
+#### Profesora: Carolina Lagos
 
 ## Introducción
 
@@ -98,11 +103,86 @@ encontrabamos la marca "Oppo" con todas sus letras en mayúsculas
 y en otro con tan solo la primera letra en mayúsculas. Por lo 
 que decidimos trabajar con el formato común de dejar tan solo 
 la primera letra en mayúsculas. Esto fue solucionado con un 
-"Buscar y reemplazar" antes de importar el archivo realizado con el editor de flujo `sed`. Herramienta presente en la mayoría de sistemas *nix.
+"Buscar y reemplazar" antes de importar el archivo realizado con el editor de flujo `sed`. Herramienta presente en la mayoría de sistemas -nix.
 
 # Análisis exploratorio
 
 Una vez realizado el cruce nos fue posible realizar los siguientes gráficos:
 
-![Cantidad de unidades vendidas por año](g1.png)
-![Cantidad de unidades vendidas por trimestre](g2.png)
+![asd](12.png)
+
+- Samsung es el principal ganador en ventas por millones de dólares.
+
+- Xiaomi tiene la mayor alza en ganancia.
+
+![asd](13.png)
+
+- Samsung es el principal ganador en ventas.
+
+- Xiaomi es el que tiene mayor alza en ganancias
+
+- Apple tiene mejores resultados en el 2021
+
+
+![asd](14.png)
+
+- Samsung se encuentra más bajo pero presenta un alza.
+- Xiaomi tiene la mayor alza en popularidad.
+- Apple presenta mejores resultados en la popularidad.
+
+![asd](15.png)
+
+- En el rango inferior
+    - Oppo sobresale junto a Xiaomi
+- En el rango medio
+    - Vivo y Apple son aquellos con mejor valoración.
+- En el rango superior
+    - Apple es el con mejor valoración.
+
+![asd](16.png)
+
+- La tendencia es a un precio de celular bajo. 
+- Los equipos caros son una minoría
+
+![asd](18.png)
+
+- Samsung tiene una tendencia bajista en unidades vendidas
+- Xiaomi presenta un alza en sus ventas por unidades.
+
+![asd](19.png)
+
+- Samsung es la principal marca en ventas de celulares de bajo costo
+
+![asd](20.png)
+
+- Samsung se encuentra más alto pero con una tendencia bajista.
+- Xiaomi tiene una tendencia alcista.
+
+![asd](21.png)
+
+- En Q1 y Q2 Samsung y Xiaomi son los más populares
+- En Q3 y Q4 Apple y Xiaomi son los más populares
+
+![asd](22.png)
+
+- La tendencia es a que las empresas vendan pocas unidades. Esto puede deberse a la influencia de los equipos con costo elevado.
+
+# Conclusiones
+
+_"La marca con mayor ganancias son aquellas que tienen un mayor ranking de popularidad entre sus equipos."_
+
+Esto no es necesariamente cierto, pues Xiaomi y Apple son aquellas 
+que lideran en popularidad mientras que generan menores ventas que otras como Samsung. Esto es debido a que Samsung tiene mayor variedad de equipos y prioriza sus equipos de bajo costo, a diferencia de Apple.
+Estos equipos venden más pero generan una menor satisfacción en el cliente
+
+_"La marca que más unidades de equipos vende al año es aquella 
+que genera un mayor índice de ganancia y la más popular"_.
+
+De los gráficos podemos observar que, en términos del promedio
+de ventas por unidades Xiaomi se encuentra al alza, del mismo modo es una de las marcas con mejores índices de popularidad. 
+
+Samsung es la empresa que más equipos tiene a la venta y la 
+que más equipos vende, sin embargo su promedio de popularidad
+no destaca tanto como el de las otras marcas. A su vez, Apple
+tiene un mayor índice de popularidad y una menor cantidad de 
+ventas por unidad.
